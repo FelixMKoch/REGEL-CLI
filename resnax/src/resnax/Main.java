@@ -128,8 +128,8 @@ public class Main {
   public static String main(String[] args) {
     MODE = Integer.parseInt(args[0]);
 
-    if (MODE == 0) resnax.so.Run.run(Arrays.copyOfRange(args, 1, args.length));
-    if (MODE == 1) resnax.deepregex.Run.run(Arrays.copyOfRange(args, 1, args.length));
+    if (MODE == 0) return resnax.so.Run.run(Arrays.copyOfRange(args, 1, args.length));
+    if (MODE == 1) return resnax.deepregex.Run.run(Arrays.copyOfRange(args, 1, args.length));
   }
 
   // mode 1 = nl + io + p + sc
