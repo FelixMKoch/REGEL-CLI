@@ -22,14 +22,18 @@ cd sempre
 	
 ## How to Run REGEL on CLI
 - Gradle
-	´´´bash ./gradlew run ´´´
+	´´´bash 
+	./gradlew run 
+	´´´
 
 - IntelliJ IDEA
-	´´´bash git clone ...´´´
+	´´´bash 
+	git clone ...
+	´´´
 
 
 ## Known Problems / Bugs
-Running this program several times it sometimes happened that I found bugs while executing (files not being created etc.).  
-Due to further trying I found out that those bugs mostly appeared when running this Single-Threaded.  
-Because of the given task this should be run Single-Threaded, else I would prefer to run this application on more than one thread.
+- Running this program several times it sometimes happened that I found bugs while executing (files not being created etc.).  
+- Due to further trying I found out that those bugs mostly appeared when running this Single-Threaded.  
+- Because of the given task this should be run Single-Threaded, else I would prefer to run this application on more than one thread.
 	
