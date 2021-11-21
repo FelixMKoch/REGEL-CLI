@@ -22,14 +22,14 @@ cd sempre
 	
 ## How to Run REGEL on CLI
 - Gradle
-	´´´bash 
-	./gradlew run 
-	´´´
+´´´bash
+./gradlew run
+´´´
 
 - IntelliJ IDEA
-	´´´bash 
-	git clone ...
-	´´´
+´´´bash
+git clone https://github.com/FelixMKoch/REGEL-CLI.git
+´´´
 
 
 ## Known Problems / Bugs
