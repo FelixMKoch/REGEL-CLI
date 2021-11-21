@@ -21,12 +21,12 @@ cd sempre
 	- [Gradle](https://gradle.org/) if you want to build with that
 	
 ## How to Run REGEL on CLI
-- Gradle
+- Gradle:  
 ´´´bash
 ./gradlew run
 ´´´
 
-- IntelliJ IDEA
+- IntelliJ IDEA:  
 ´´´bash
 git clone https://github.com/FelixMKoch/REGEL-CLI.git
 ´´´
