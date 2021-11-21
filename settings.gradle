@@ -1,0 +1,6 @@
+rootProject.name = 'jetbrains_test_problem'
+
+include(
+        "resnax"
+)
+

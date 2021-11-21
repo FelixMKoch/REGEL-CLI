@@ -1,0 +1,36 @@
+
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(ù«ê×8àÃ¢ÏÒ/
+m
+java:S1104"PMake args a static final constant or non-public and provide accessors if needed.(µ‘ Ë8àÃ¢ÏÒ/
+{	java:S135â"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆÿÿÿÿÿ8àÃ¢ÏÒ/
+U	java:S106i"9Replace this use of System.out or System.err by a logger.(Úî8àÃ¢ÏÒ/
+f
+java:S2095†"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(ò´…ì8àÃ¢ÏÒ/
+V	java:S106¹"9Replace this use of System.out or System.err by a logger.(ìÉÓ±8àÃ¢ÏÒ/
+V	java:S106–"9Replace this use of System.out or System.err by a logger.(òê„ã8àÃ¢ÏÒ/
+p
+java:S3776Ú"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.(ÖÇ¬8àÃ¢ÏÒ/
+V	java:S106ª"9Replace this use of System.out or System.err by a logger.(ı•èü8àÃ¢ÏÒ/
+[	java:S106”"9Replace this use of System.out or System.err by a logger.(“¯×¾ıÿÿÿÿ8àÃ¢ÏÒ/
+[	java:S106û"9Replace this use of System.out or System.err by a logger.(Œº¯ñüÿÿÿÿ8àÃ¢ÏÒ/
+U	java:S106X"9Replace this use of System.out or System.err by a logger.(¸¡³Õ8àÃ¢ÏÒ/
+V	java:S106ç"9Replace this use of System.out or System.err by a logger.(Ú’ÂÚ8àÃ¢ÏÒ/
+i
+java:S1192"GDefine a constant instead of duplicating this literal "sempre" 5 times.(¾³Ï€ıÿÿÿÿ8àÃ¢ÏÒ/
+k
+java:S1192\"IDefine a constant instead of duplicating this literal "user.dir" 4 times.(‹Ç¸ııÿÿÿÿ8àÃ¢ÏÒ/
+[	java:S106¤"9Replace this use of System.out or System.err by a logger.(Ü¢Ë´ùÿÿÿÿ8àÃ¢ÏÒ/
+[	java:S106½"9Replace this use of System.out or System.err by a logger.(å’°Úüÿÿÿÿ8àÃ¢ÏÒ/
+D	java:S108C")Either remove or fill this block of code.(Éò§+8àÃ¢ÏÒ/
+U	java:S106·"9Replace this use of System.out or System.err by a logger.(şÔ’8àÃ¢ÏÒ/
+[	java:S106†"9Replace this use of System.out or System.err by a logger.(‰É²îüÿÿÿÿ8àÃ¢ÏÒ/
+V	java:S106 "9Replace this use of System.out or System.err by a logger.(¿Òéç8àÃ¢ÏÒ/
+V	java:S106æ"9Replace this use of System.out or System.err by a logger.(‚¸‹8àÃ¢ÏÒ/
+V
+java:S1117Ã"8Rename "args" which hides the field declared at line 11.(Íüë·8àÃ¢ÏÒ/
+[	java:S106í"9Replace this use of System.out or System.err by a logger.(±‚¸¨ıÿÿÿÿ8àÃ¢ÏÒ/
+V	java:S106¬"9Replace this use of System.out or System.err by a logger.(´ ÔÂ8àÃ¢ÏÒ/
+V	java:S106»"9Replace this use of System.out or System.err by a logger.(ëğ†³8àÃ¢ÏÒ/
+V	java:S106"9Replace this use of System.out or System.err by a logger.(Ò¼ª8àÃ¢ÏÒ/
+d	java:S899„"BDo something with the "boolean" value returned by "createNewFile".(Ÿ¥¸æüÿÿÿÿ8àÃ¢ÏÒ/
+D	java:S108Q")Either remove or fill this block of code.(Éò§+8àÃ¢ÏÒ/

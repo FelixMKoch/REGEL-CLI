@@ -1,0 +1,15 @@
+
+f
+java:S1104
+"PMake time a static final constant or non-public and provide accessors if needed.(¥΅Ϋ
+g
+java:S1104"QMake regex a static final constant or non-public and provide accessors if needed.(Α§–¦
+k
+java:S1104"PMake succ a static final constant or non-public and provide accessors if needed.(’°ζηÿÿÿÿÿ
+h
+java:S1104"SMake program a static final constant or non-public and provide accessors if needed.(Έ¨ΰ
+
+n
+java:S1104"SMake matchGt a static final constant or non-public and provide accessors if needed.(ίξ¦ωÿÿÿÿ
+f
+java:S1104	"PMake cost a static final constant or non-public and provide accessors if needed.(ω©‡­

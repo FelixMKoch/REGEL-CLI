@@ -1,0 +1,71 @@
+
+H
+java:S1199."-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+m
+java:S1104"RMake sketch a static final constant or non-public and provide accessors if needed.(êÍŠûùÿÿÿÿ
+Q	java:S125ÿ"<This block of commented-out lines of code should be removed.(îšJ
+I
+java:S1199ƒ"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+k	java:S1179"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çşà¸øÿÿÿÿ
+H
+java:S1199w"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+T
+java:S1444"9Make this "public static appliedTerminalsMap" field final(÷°•úÿÿÿÿ
+`	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(¾ûÓÕıÿÿÿÿ
+H
+java:S1199I"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+{
+java:S1104"`Make appliedTerminalsCost a static final constant or non-public and provide accessors if needed.(áØ°õúÿÿÿÿ
+8
+java:S1643İ"Use a StringBuilder instead.(‡¥‘ğúÿÿÿÿ
+d	java:S100Ğ"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Àî¬´
+T	java:S106å"9Replace this use of System.out or System.err by a logger.(©‚ ùÿÿÿÿ
+n
+java:S1104""SMake csvPath a static final constant or non-public and provide accessors if needed.(ñ¥‡íúÿÿÿÿ
+a	java:S112Ê"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+s
+java:S1104"XMake benchmarkNum a static final constant or non-public and provide accessors if needed.(°¤ïËúÿÿÿÿ
+Q	java:S125C"<This block of commented-out lines of code should be removed.(¨¬€‹
+V	java:S125R"<This block of commented-out lines of code should be removed.(Ù¦Ÿ­øÿÿÿÿ
+f
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾
+H
+java:S1199>"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199¹"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+I
+java:S1199Â"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+h
+java:S1104"MMake g a static final constant or non-public and provide accessors if needed.(‘²½£ùÿÿÿÿ
+s	java:S135k"YReduce the total number of break and continue statements in this loop to use at most one.(‰óÿÿÿÿÿ
+i	java:S100ó"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶ïš‚üÿÿÿÿ
+H
+java:S1199g"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+z
+java:S1104"_Make appliedTerminalsMap a static final constant or non-public and provide accessors if needed.(÷°•úÿÿÿÿ
+T	java:S106á"9Replace this use of System.out or System.err by a logger.(ñÂíÃÿÿÿÿÿ
+T	java:S106í"9Replace this use of System.out or System.err by a logger.(³ƒÊ×ıÿÿÿÿ
+R	java:S125¼"<This block of commented-out lines of code should be removed.(‰…ŒÉ
+i	java:S100ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…ÍÏÊùÿÿÿÿ
+g
+java:S3776("RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.(ÁÉ¬
+}
+java:S1104"bMake appliedTerminalsNoCost a static final constant or non-public and provide accessors if needed.(ÇÆÑüÿÿÿÿ
+j
+java:S1104"TMake examples a static final constant or non-public and provide accessors if needed.(¯‰£„
+n
+java:S1104!"SMake logPath a static final constant or non-public and provide accessors if needed.(—Ãıÿÿÿÿ
+W	java:S125®"<This block of commented-out lines of code should be removed.(€üìèÿÿÿÿÿ
+i
+java:S1104"NMake gt a static final constant or non-public and provide accessors if needed.(Ñ¬Îÿÿÿÿÿ
+=
+java:S1075Ä"&Remove this hard-coded path-delimiter.(ˆİÄê
+o
+java:S1104"YMake benchmarkPath a static final constant or non-public and provide accessors if needed.(­¶š…
+H
+java:S1199;"-Extract this nested code block into a method.(ÒÌâ–øÿÿÿÿ
+7
+java:S1116D"Remove this empty statement.(Åñ­õşÿÿÿÿ
+T	java:S106ï"9Replace this use of System.out or System.err by a logger.(©‚ ùÿÿÿÿ
+9
+java:S1643Ø"Use a StringBuilder instead.(”íîJ8î‹§Ñ/

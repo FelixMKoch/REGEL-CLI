@@ -1,0 +1,12 @@
+
+ipython:S1192¸"KDefine a constant instead of duplicating this literal "{} created" 4 times.(ÌÂƒ¸şÿÿÿÿ
+±python:S1192]"˜Define a constant instead of duplicating this literal 'exec java -Xmx{}G -Djava.library.path={} -cp {} -ea {} {} \"{}\" \"{}\" \"{}\" {} {} {}' 3 times.(ıÂÀ
+npython:S1192·"PDefine a constant instead of duplicating this literal 'mkdir -p \"{}\"' 4 times.(ç¿Ñßúÿÿÿÿ
+;python:S125"Remove this commented out code.(ÆİÏúÿÿÿÿ
+Cpython:S1481Á"%Remove the unused local variable "e".(ĞÂ†£úÿÿÿÿ
+Jpython:S1481Ï",Remove the unused local variable "new_file".(éø¶…øÿÿÿÿ
+npython:S3776Ú"URefactor this function to reduce its Cognitive Complexity from 105 to the 15 allowed.(‰µäÀ
+6python:S3626…"Remove this redundant return.(ÙãŞŸ
+Upython:S5754€"<Specify an exception class to catch or reraise the exception(ˆÊÉ·
+6python:S3626³"Remove this redundant return.(ÙãŞŸ
+Upython:S5754«"<Specify an exception class to catch or reraise the exception(ˆÊÉ·

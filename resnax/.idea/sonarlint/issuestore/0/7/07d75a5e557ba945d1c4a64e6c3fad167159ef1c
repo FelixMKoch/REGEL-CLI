@@ -1,0 +1,14 @@
+
+`	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+i
+java:S1104"NMake pp a static final constant or non-public and provide accessors if needed.( –¡¾üÿÿÿÿ
+k
+java:S1104"PMake cost a static final constant or non-public and provide accessors if needed.(íõäÿûÿÿÿÿ
+i
+java:S1104	"NMake ts a static final constant or non-public and provide accessors if needed.(¤‘¹øÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(–Ôâô
+M
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
+C
+java:S4274%"(Replace this assert with a proper check.(ô½ãùüÿÿÿÿ

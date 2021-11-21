@@ -1,0 +1,20 @@
+
+b
+java:S1192@"GDefine a constant instead of duplicating this literal "concat" 4 times.(Åü½˜şÿÿÿÿ
+`	java:S112s"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ
+q
+java:S1104"VMake parseError a static final constant or non-public and provide accessors if needed.(µªÉˆøÿÿÿÿ
+g
+java:S1104"QMake nodes a static final constant or non-public and provide accessors if needed.(®Ÿ¯Ç
+m
+java:S1104"WMake repSketches a static final constant or non-public and provide accessors if needed.(„ëó
+k
+java:S1104"UMake startNode a static final constant or non-public and provide accessors if needed.(ÙúÒ¥
+q
+java:S1488X"[Immediately return this expression instead of assigning it to the temporary variable "ret".(È–¡Ì
+v
+java:S1488^"[Immediately return this expression instead of assigning it to the temporary variable "ret".(Â§‚›ıÿÿÿÿ
+H
+java:S1135"2Complete the task associated to this TODO comment.(»ò¯ó
+M
+java:S1135r"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ
