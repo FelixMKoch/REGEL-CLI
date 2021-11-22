@@ -5,14 +5,15 @@ It should also use on of the pretrained models (Stack Overflow used here) and re
 Source Used: [Multi-modal Synthesis of Regular Expressions](https://arxiv.org/abs/1908.03316) (GitHub: [utopia-group/regel](https://github.com/utopia-group/regel/))
 
 ## Requirements
-- Set up (Sempre)[https://github.com/percyliang/sempre] tool:
-´´´bash
+- Set up [Sempre](https://github.com/percyliang/sempre) tool:
+```bash
 cd sempre
 ./pull-dependencies core
 ./pull-dependencies corenlp
 ./pull-dependencies freebase
 ./pull-dependencies tables
-´´´
+
+```
 
 - Other dependencies:
 	- [Z3](https://github.com/Z3Prover/z3) with Java binding
@@ -21,9 +22,9 @@ cd sempre
 	- [Gradle](https://gradle.org/) if you want to build with that
 	
 ## How to Run REGEL on CLI
-- Gradle: ./gradlew run
+- Gradle: ```bash ./gradlew run ```
 
-- IntelliJ IDEA: git clone https://github.com/FelixMKoch/REGEL-CLI.git
+- IntelliJ IDEA: ```bash git clone https://github.com/FelixMKoch/REGEL-CLI.git ```
 
 
 ## Known Problems / Bugs
