@@ -10,7 +10,7 @@ public class Run {
 
     public String[] args;
 
-    private String model = "so";
+    private String model = "so";        // Changes currently made onyl to the Run classes of the so model. Only this one works.
 
     private Integer topRes = 10;
 
@@ -202,9 +202,7 @@ public class Run {
                     "0"
             };
 
-            Main.main(args);        //Important: This is the Main-Class from the 'resnax' directory!
-
-            String res = Main.main(args);
+            String res = Main.runCustom(args);  // Important: This is the Main class of 'resnax' with custom function for this case
 
             ret.add(res);
 

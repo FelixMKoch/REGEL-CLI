@@ -11,6 +11,19 @@ public class Run {
             runTest(args);
     }
 
+
+    public static String runCustom(String[] args) {
+        setArgs();
+
+        resnax.Main.INTERACT = Integer.parseInt(args[5]);
+        resnax.Main.checkMode(args[4]);
+
+        // args: 0 - benchmarkPath; 1 - logPath; 2 - sketch; 3 - index
+        Benchmark benchmark = Benchmark.read(args[0], args[1], args[2], args[3]);
+
+        return benchmark.runCustom();
+    }
+
     private static void setArgs() {
 
         // some flags

@@ -1,427 +1,429 @@
 
-C
-java:S1444@"-Make this "public static SW_COST" field final(Å¸¨Ÿ
-Q
-java:S1444_"6Make this "public static skipPruningCount" field final(´É¥…øÿÿÿÿ
-P
-java:S1444L"5Make this "public static TERMINAL_OTHERS" field final(‹‹®ùÿÿÿÿ
-|
-java:S1104m"fMake solverNonLinearRunningTime a static final constant or non-public and provide accessors if needed.(¬ô£È
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦î‡Ãøÿÿÿÿ
-~
-java:S1104R"cMake CONSECUTIVE_REPEAT_COST a static final constant or non-public and provide accessors if needed.(¸ê´åüÿÿÿÿ
-E
-java:S1444<"/Make this "public static STAR_COST" field final(Ö®ŠÒ
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¼®¯—
-R
-java:S1444j"7Make this "public static solverLinearCount" field final(åã‰”şÿÿÿÿ
-N
-java:S1444u"3Make this "public static enumerateTime" field final(ğÑõ­ùÿÿÿÿ
-|
-java:S1104S"aMake APPLIED_TERMINAL_COST a static final constant or non-public and provide accessors if needed.(Äæ›˜ıÿÿÿÿ
-q
-java:S3008"[Rename this field "SYMBOLOC_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åï–ñ
-
-java:S1104Y"iMake NOT_NOT_CONTAIN_SW_EW_PATTERN a static final constant or non-public and provide accessors if needed.(œÊ¾ø
-w
-java:S1104b"\Make addedStatesCount a static final constant or non-public and provide accessors if needed.(è–ÆĞşÿÿÿÿ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ê£·Şÿÿÿÿÿ
-O
-java:S1444z"4Make this "public static leanredProgram" field final(à„úáşÿÿÿÿ
-F
-java:S1444/"+Make this "public static K_MIN" field final(Õµë„ÿÿÿÿÿ
-
-java:S3008"iRename this field "NOT_PRUNED_SUBSUMPTION_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰½É
-v
-java:S1104"[Make PRUNING_ENABLED a static final constant or non-public and provide accessors if needed.(‡’ÛÉúÿÿÿÿ
-P
-java:S1444[":Make this "public static NOT_TERMINAL_PATTERN" field final(†õ
-y
-java:S1104X"cMake SW_EW_CONTAIN_IN_REPEAT a static final constant or non-public and provide accessors if needed.(óë¬ı
-Q
-java:S1444I"6Make this "public static TERMINAL_LET_NUM" field final(¸¦ü”úÿÿÿÿ
-q
-java:S1104C"VMake OTHER_COST a static final constant or non-public and provide accessors if needed.(áÉ£Äùÿÿÿÿ
-S
-java:S1444O"=Make this "public static SPECIAL_REPEATATLEAST_1" field final(°•ÆÍ
-y
-java:S1104*"^Make AUTOMATON_MINIMIZE a static final constant or non-public and provide accessors if needed.(Ğ¸äÚøÿÿÿÿ
-x
-java:S1104e"]Make polledStatesCount a static final constant or non-public and provide accessors if needed.(ˆê¹‚üÿÿÿÿ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ı®û†üÿÿÿÿ
-l
-java:S3008B"WRename this field "CONTAIN_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¦Î
-y
-java:S1104O"cMake SPECIAL_REPEATATLEAST_1 a static final constant or non-public and provide accessors if needed.(°•ÆÍ
-l
-java:S30087"VRename this field "CONCAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚˜Ä£
-k
-java:S3008/"PRename this field "K_MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õµë„ÿÿÿÿÿ
-F
-java:S1444%"+Make this "public static regex" field final(•ãÄÉÿÿÿÿÿ
-s
-java:S30088"XRename this field "OPTIONAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¤øÙúÿÿÿÿ
-M
-java:S1444U"7Make this "public static MORE_THAN_ONE_NOT" field final(ÿ¯ó
-N
-java:S14448"3Make this "public static OPTIONAL_COST" field final(¿¤øÙúÿÿÿÿ
-n
-java:S1104="SMake OR_COST a static final constant or non-public and provide accessors if needed.(Ê¶ÊÍùÿÿÿÿ
-N
-java:S1444:"3Make this "public static REPEATAL_COST" field final(»¸¡×üÿÿÿÿ
-u
-java:S1104f"ZMake evaluatedCount a static final constant or non-public and provide accessors if needed.(—ŠÏ¶ÿÿÿÿÿ
-G
-java:S14447"1Make this "public static CONCAT_COST" field final(‚˜Ä£
-R
-java:S1444d"7Make this "public static prunedStatesCount" field final(üªÁãúÿÿÿÿ
-r
-java:S1104}"\Make subsumePrunedHit a static final constant or non-public and provide accessors if needed.(¤ğ˜â
-u
-java:S3008)"ZRename this field "USE_PATTERN_LIB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈŠ´òüÿÿÿÿ
-v
-java:S1104i"`Make solverNonLinearCount a static final constant or non-public and provide accessors if needed.(’àæ‘
-u
-java:S1104q"_Make subsumeGenerateTime a static final constant or non-public and provide accessors if needed.(ãÈõŒ
-M
-java:S1444H"7Make this "public static TERMINAL_ALPHANUM" field final(ê²Ò
-s
-java:S3008"XRename this field "REPEAT_OPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùıˆ ıÿÿÿÿ
-k
-java:S1104y"PMake succ a static final constant or non-public and provide accessors if needed.(ÍšºØşÿÿÿÿ
-[
-java:S1444"@Make this "public static PRUNED_SUBSUMPTION_ENABLED" field final(†¶ñ›şÿÿÿÿ
-K
-java:S1444K"6Make this "public static TERMINAL_CAP_LOW" field final(áØÇ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ñö×¸üÿÿÿÿ
-p
-java:S3008K"[Rename this field "TERMINAL_CAP_LOW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áØÇ
-x
-java:S3008*"]Rename this field "AUTOMATON_MINIMIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¸äÚøÿÿÿÿ
-O
-java:S1444$"9Make this "public static syntaticErrorSketch" field final(Ú‡şõ
-X
-java:S1444o"=Make this "public static pruningConstructionTime" field final(ˆÈ™×ıÿÿÿÿ
-
-java:S1104"fMake PRUNED_SUBSUMPTION_ENABLED a static final constant or non-public and provide accessors if needed.(†¶ñ›şÿÿÿÿ
-v
-java:S1104["`Make NOT_TERMINAL_PATTERN a static final constant or non-public and provide accessors if needed.(†õ
-u
-java:S1104~"_Make subsumeNotPrunedHit a static final constant or non-public and provide accessors if needed.(³¹ßî
-E
-java:S1444t"/Make this "public static solveTime" field final(øéÚ
-M
-java:S1444v"2Make this "public static evaluateTime" field final(¬ÇÑÆşÿÿÿÿ
-S
-java:S1444X"=Make this "public static SW_EW_CONTAIN_IN_REPEAT" field final(óë¬ı
 x
 java:S1104P"]Make EXTRA_REPEAT_COST a static final constant or non-public and provide accessors if needed.(îÖ£°ıÿÿÿÿ
-Q
-java:S1444b"6Make this "public static addedStatesCount" field final(è–ÆĞşÿÿÿÿ
-p
-java:S3008C"URename this field "OTHER_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÉ£Äùÿÿÿÿ
-t
-java:S1104:"YMake REPEATAL_COST a static final constant or non-public and provide accessors if needed.(»¸¡×üÿÿÿÿ
+~
+java:S3008Y"hRename this field "NOT_NOT_CONTAIN_SW_EW_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÊ¾ø
 z
 java:S1104J"dMake TERMINAL_NUM19_DOT_COMMA a static final constant or non-public and provide accessors if needed.(÷ò ş
-r
-java:S3008V"\Rename this field "REPEAT_WITHIN_NOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰°ªë
+q
+java:S3008"VRename this field "DEPTH_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü üªıÿÿÿÿ
+m
+java:S3008;"WRename this field "REPEATR_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö’®ç
+t
+java:S1104F"YMake TERMINAL_COST a static final constant or non-public and provide accessors if needed.(¨˜º¥øÿÿÿÿ
+w
+java:S1104I"\Make TERMINAL_LET_NUM a static final constant or non-public and provide accessors if needed.(¸¦ü”úÿÿÿÿ
+S
+java:S1444O"=Make this "public static SPECIAL_REPEATATLEAST_1" field final(°•ÆÍ
+N
+java:S1444u"3Make this "public static enumerateTime" field final(ğÑõ­ùÿÿÿÿ
+x
+java:S11042"bMake STRINGBUILDER_CAPACITY a static final constant or non-public and provide accessors if needed.(ÜÃòÔ
 u
 java:S1104z"ZMake leanredProgram a static final constant or non-public and provide accessors if needed.(à„úáşÿÿÿÿ
-€
-java:S3008"eRename this field "PRUNED_SUBSUMPTION_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶ñ›şÿÿÿÿ
-o
-java:S1104>"TMake AND_COST a static final constant or non-public and provide accessors if needed.(®·è¿øÿÿÿÿ
-s
-java:S1104v"XMake evaluateTime a static final constant or non-public and provide accessors if needed.(¬ÇÑÆşÿÿÿÿ
-h
-java:S3008@"RRename this field "SW_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¸¨Ÿ
-N
-java:S1444F"3Make this "public static TERMINAL_COST" field final(¨˜º¥øÿÿÿÿ
-R
-java:S14442"<Make this "public static STRINGBUILDER_CAPACITY" field final(ÜÃòÔ
-O
-java:S1444q"9Make this "public static subsumeGenerateTime" field final(ãÈõŒ
-v
-java:S1104+"[Make PRUNE_ONLY_LEAF a static final constant or non-public and provide accessors if needed.(û¬Ú×ûÿÿÿÿ
-}
-java:S3008R"bRename this field "CONSECUTIVE_REPEAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ê´åüÿÿÿÿ
-u
-java:S3008["_Rename this field "NOT_TERMINAL_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†õ
-V
-java:S1444m"@Make this "public static solverNonLinearRunningTime" field final(¬ô£È
-D
-java:S1444"".Make this "public static OUTPUT_5" field final(áÇŸ¶
-H
-java:S1444G"2Make this "public static TERMINAL_ANY" field final(ìŒ½§
-~
-java:S30083"cRename this field "MIN_NUM_TERMINAL_PRUNING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÜÍÕùÿÿÿÿ
-Y
-java:S14443">Make this "public static MIN_NUM_TERMINAL_PRUNING" field final(ĞÜÍÕùÿÿÿÿ
-s
-java:S3008F"XRename this field "TERMINAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨˜º¥øÿÿÿÿ
-i
-java:S1104{"SMake matchGT a static final constant or non-public and provide accessors if needed.(Ë«÷é
-L
-java:S14449"1Make this "public static REPEAT_COST" field final(à´É†ûÿÿÿÿ
-P
-java:S1444"5Make this "public static PRUNING_ENABLED" field final(‡’ÛÉúÿÿÿÿ
-r
-java:S1104"\Make SYMBOLOC_ENABLED a static final constant or non-public and provide accessors if needed.(Åï–ñ
-k
-java:S1104&"PMake MODE a static final constant or non-public and provide accessors if needed.(ƒ’—ÿÿÿÿÿ
-Z
-java:S1444"DMake this "public static NOT_PRUNED_SUBSUMPTION_ENABLED" field final(‰½É
-u
-java:S1104l"ZMake synthesizeTime a static final constant or non-public and provide accessors if needed.(ºÍÓ˜øÿÿÿÿ
-j
-java:S3008<"TRename this field "STAR_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö®ŠÒ
-g
-java:S11040"QMake K_MAX a static final constant or non-public and provide accessors if needed.(ŒĞğª
 x
-java:S1104Q"bMake EXTRA_REPEAT_THRESHOLD a static final constant or non-public and provide accessors if needed.(’ßíî
-u
-java:S3008L"ZRename this field "TERMINAL_OTHERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‹®ùÿÿÿÿ
-D
-java:S1444?".Make this "public static NOT_COST" field final(­‚ÅØ
-L
-java:S1444}"6Make this "public static subsumePrunedHit" field final(¤ğ˜â
-T
-java:S1444p"9Make this "public static pruningEvaluateTime" field final(Ÿö¹æıÿÿÿÿ
-C
-java:S1444A"-Make this "public static EW_COST" field final(¾¦ñÆ
-s
-java:S11041"]Make SUBSUMPTION_DEPTH a static final constant or non-public and provide accessors if needed.(Úâíì
+java:S3008O"bRename this field "SPECIAL_REPEATATLEAST_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°•ÆÍ
 R
-java:S1444P"7Make this "public static EXTRA_REPEAT_COST" field final(îÖ£°ıÿÿÿÿ
-s
-java:S1104U"]Make MORE_THAN_ONE_NOT a static final constant or non-public and provide accessors if needed.(ÿ¯ó
+java:S1444Q"<Make this "public static EXTRA_REPEAT_THRESHOLD" field final(’ßíî
 t
-java:S11048"YMake OPTIONAL_COST a static final constant or non-public and provide accessors if needed.(¿¤øÙúÿÿÿÿ
-X
-java:S1444R"=Make this "public static CONSECUTIVE_REPEAT_COST" field final(¸ê´åüÿÿÿÿ
-R
-java:S1444e"7Make this "public static polledStatesCount" field final(ˆê¹‚üÿÿÿÿ
-l
-java:S1104%"QMake regex a static final constant or non-public and provide accessors if needed.(•ãÄÉÿÿÿÿÿ
+java:S1104"YMake REPEAT_OPTION a static final constant or non-public and provide accessors if needed.(ùıˆ ıÿÿÿÿ
+n
+java:S1104;"XMake REPEATR_COST a static final constant or non-public and provide accessors if needed.(ö’®ç
+r
+java:S30081"\Rename this field "SUBSUMPTION_DEPTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úâíì
 i
 java:S3008""SRename this field "OUTPUT_5" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÇŸ¶
-y
-java:S3008J"cRename this field "TERMINAL_NUM19_DOT_COMMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ò ş
+E
+java:S1444<"/Make this "public static STAR_COST" field final(Ö®ŠÒ
+s
+java:S1104v"XMake evaluateTime a static final constant or non-public and provide accessors if needed.(¬ÇÑÆşÿÿÿÿ
+C
+java:S1444A"-Make this "public static EW_COST" field final(¾¦ñÆ
+w
+java:S3008P"\Rename this field "EXTRA_REPEAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÖ£°ıÿÿÿÿ
+u
+java:S1104f"ZMake evaluatedCount a static final constant or non-public and provide accessors if needed.(—ŠÏ¶ÿÿÿÿÿ
+l
+java:S30087"VRename this field "CONCAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚˜Ä£
+O
+java:S1444l"4Make this "public static synthesizeTime" field final(ºÍÓ˜øÿÿÿÿ
+o
+java:S1104#"YMake OUTPUT_5_SIZE a static final constant or non-public and provide accessors if needed.(“Îá”
+F
+java:S1444%"+Make this "public static regex" field final(•ãÄÉÿÿÿÿÿ
+i
+java:S3008!"SRename this field "INTERACT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìßêò
+l
+java:S1104/"QMake K_MIN a static final constant or non-public and provide accessors if needed.(Õµë„ÿÿÿÿÿ
+O
+java:S1444r"9Make this "public static subsumeCheckingTime" field final(ºÜÔì
+u
+java:S3008)"ZRename this field "USE_PATTERN_LIB" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÈŠ´òüÿÿÿÿ
+N
+java:S1444"3Make this "public static REPEAT_OPTION" field final(ùıˆ ıÿÿÿÿ
+k
+java:S1104&"PMake MODE a static final constant or non-public and provide accessors if needed.(ƒ’—ÿÿÿÿÿ
+}
+java:S3008R"bRename this field "CONSECUTIVE_REPEAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸ê´åüÿÿÿÿ
+x
+java:S3008X"bRename this field "SW_EW_CONTAIN_IN_REPEAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óë¬ı
+x
+java:S1104Q"bMake EXTRA_REPEAT_THRESHOLD a static final constant or non-public and provide accessors if needed.(’ßíî
+E
+java:S1444&"*Make this "public static MODE" field final(ƒ’—ÿÿÿÿÿ
+M
+java:S14441"7Make this "public static SUBSUMPTION_DEPTH" field final(Úâíì
+X
+java:S1444R"=Make this "public static CONSECUTIVE_REPEAT_COST" field final(¸ê´åüÿÿÿÿ
+L
+java:S1444"1Make this "public static DEPTH_LIMIT" field final(Ü üªıÿÿÿÿ
 H
 java:S1444="-Make this "public static OR_COST" field final(Ê¶ÊÍùÿÿÿÿ
+i
+java:S1104A"SMake EW_COST a static final constant or non-public and provide accessors if needed.(¾¦ñÆ
+
+java:S3008"iRename this field "NOT_PRUNED_SUBSUMPTION_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰½É
+
+java:S1104"fMake PRUNED_SUBSUMPTION_ENABLED a static final constant or non-public and provide accessors if needed.(†¶ñ›şÿÿÿÿ
+s
+java:S11041"]Make SUBSUMPTION_DEPTH a static final constant or non-public and provide accessors if needed.(Úâíì
+f
+java:S30080"PRename this field "K_MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒĞğª
+q
+java:S3008"[Rename this field "SYMBOLOC_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åï–ñ
+y
+java:S1104O"cMake SPECIAL_REPEATATLEAST_1 a static final constant or non-public and provide accessors if needed.(°•ÆÍ
+P
+java:S1444"5Make this "public static PRUNING_ENABLED" field final(‡’ÛÉúÿÿÿÿ
+x
+java:S1104e"]Make polledStatesCount a static final constant or non-public and provide accessors if needed.(ˆê¹‚üÿÿÿÿ
+u
+java:S3008+"ZRename this field "PRUNE_ONLY_LEAF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¬Ú×ûÿÿÿÿ
+s
+java:S3008F"XRename this field "TERMINAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨˜º¥øÿÿÿÿ
 q
 java:S1104K"\Make TERMINAL_CAP_LOW a static final constant or non-public and provide accessors if needed.(áØÇ
+N
+java:S1444:"3Make this "public static REPEATAL_COST" field final(»¸¡×üÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ê£·Şÿÿÿÿÿ
+s
+java:S3008:"XRename this field "REPEATAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¸¡×üÿÿÿÿ
+u
+java:S1104q"_Make subsumeGenerateTime a static final constant or non-public and provide accessors if needed.(ãÈõŒ
+U
+java:S1444,"?Make this "public static REPEATATLEAST_1_CONSTRAIN" field final(ô‘¸Ë
+Q
+java:S1444b"6Make this "public static addedStatesCount" field final(è–ÆĞşÿÿÿÿ
+R
+java:S1444j"7Make this "public static solverLinearCount" field final(åã‰”şÿÿÿÿ
+u
+java:S1104r"_Make subsumeCheckingTime a static final constant or non-public and provide accessors if needed.(ºÜÔì
+P
+java:S1444+"5Make this "public static PRUNE_ONLY_LEAF" field final(û¬Ú×ûÿÿÿÿ
+F
+java:S1128"+Remove this unused import 'resnax.so.Test'.(´ÀÜñşÿÿÿÿ
+z
+java:S3008,"dRename this field "REPEATATLEAST_1_CONSTRAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘¸Ë
+R
+java:S14442"<Make this "public static STRINGBUILDER_CAPACITY" field final(ÜÃòÔ
+L
+java:S1444"6Make this "public static SYMBOLOC_ENABLED" field final(Åï–ñ
+S
+java:S1444X"=Make this "public static SW_EW_CONTAIN_IN_REPEAT" field final(óë¬ı
+l
+java:S1104%"QMake regex a static final constant or non-public and provide accessors if needed.(•ãÄÉÿÿÿÿÿ
+O
+java:S1444q"9Make this "public static subsumeGenerateTime" field final(ãÈõŒ
+K
+java:S1444K"6Make this "public static TERMINAL_CAP_LOW" field final(áØÇ
+m
+java:S1104B"XMake CONTAIN_COST a static final constant or non-public and provide accessors if needed.(Ù¦Î
+r
+java:S3008V"\Rename this field "REPEAT_WITHIN_NOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‰°ªë
+t
+java:S1104u"YMake enumerateTime a static final constant or non-public and provide accessors if needed.(ğÑõ­ùÿÿÿÿ
+F
+java:S1444/"+Make this "public static K_MIN" field final(Õµë„ÿÿÿÿÿ
+N
+java:S14448"3Make this "public static OPTIONAL_COST" field final(¿¤øÙúÿÿÿÿ
+s
+java:S1104U"]Make MORE_THAN_ONE_NOT a static final constant or non-public and provide accessors if needed.(ÿ¯ó
+H
+java:S1444;"2Make this "public static REPEATR_COST" field final(ö’®ç
+u
+java:S3008L"ZRename this field "TERMINAL_OTHERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‹‹®ùÿÿÿÿ
+v
+java:S1104L"[Make TERMINAL_OTHERS a static final constant or non-public and provide accessors if needed.(‹‹®ùÿÿÿÿ
+z
+java:S1104p"_Make pruningEvaluateTime a static final constant or non-public and provide accessors if needed.(Ÿö¹æıÿÿÿÿ
+h
+java:S3008@"RRename this field "SW_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å¸¨Ÿ
+v
+java:S1104"[Make PRUNING_ENABLED a static final constant or non-public and provide accessors if needed.(‡’ÛÉúÿÿÿÿ
+
+java:S11043"dMake MIN_NUM_TERMINAL_PRUNING a static final constant or non-public and provide accessors if needed.(ĞÜÍÕùÿÿÿÿ
+t
+java:S11048"YMake OPTIONAL_COST a static final constant or non-public and provide accessors if needed.(¿¤øÙúÿÿÿÿ
+E
+java:S1444t"/Make this "public static solveTime" field final(øéÚ
+I
+java:S1444#"3Make this "public static OUTPUT_5_SIZE" field final(“Îá”
+k
+java:S1104y"PMake succ a static final constant or non-public and provide accessors if needed.(ÍšºØşÿÿÿÿ
+R
+java:S1444e"7Make this "public static polledStatesCount" field final(ˆê¹‚üÿÿÿÿ
+L
+java:S14449"1Make this "public static REPEAT_COST" field final(à´É†ûÿÿÿÿ
+M
+java:S1444v"2Make this "public static evaluateTime" field final(¬ÇÑÆşÿÿÿÿ
+X
+java:S1444o"=Make this "public static pruningConstructionTime" field final(ˆÈ™×ıÿÿÿÿ
 v
 java:S3008I"[Rename this field "TERMINAL_LET_NUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸¦ü”úÿÿÿÿ
 r
 java:S3008U"\Rename this field "MORE_THAN_ONE_NOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿ¯ó
-w
-java:S1104I"\Make TERMINAL_LET_NUM a static final constant or non-public and provide accessors if needed.(¸¦ü”úÿÿÿÿ
-~
-java:S3008Y"hRename this field "NOT_NOT_CONTAIN_SW_EW_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(œÊ¾ø
-j
-java:S3008&"ORename this field "MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ’—ÿÿÿÿÿ
-o
-java:S1104#"YMake OUTPUT_5_SIZE a static final constant or non-public and provide accessors if needed.(“Îá”
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ÿ³á‰
-m
-java:S3008G"WRename this field "TERMINAL_ANY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŒ½§
-{
-java:S1104,"eMake REPEATATLEAST_1_CONSTRAIN a static final constant or non-public and provide accessors if needed.(ô‘¸Ë
-H
-java:S1135Q"2Complete the task associated to this TODO comment.(’ßíî
-Y
-java:S1444Y"CMake this "public static NOT_NOT_CONTAIN_SW_EW_PATTERN" field final(œÊ¾ø
-m
-java:S3008;"WRename this field "REPEATR_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ö’®ç
-k
-java:S1104<"UMake STAR_COST a static final constant or non-public and provide accessors if needed.(Ö®ŠÒ
-h
-java:S3008A"RRename this field "EW_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¦ñÆ
-r
-java:S3008H"\Rename this field "TERMINAL_ALPHANUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê²Ò
-P
-java:S1444)"5Make this "public static USE_PATTERN_LIB" field final(ÈŠ´òüÿÿÿÿ
-V
-java:S1444S";Make this "public static APPLIED_TERMINAL_COST" field final(Äæ›˜ıÿÿÿÿ
-q
-java:S30089"VRename this field "REPEAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à´É†ûÿÿÿÿ
-k
-java:S1104t"UMake solveTime a static final constant or non-public and provide accessors if needed.(øéÚ
 E
 java:S1444y"*Make this "public static succ" field final(ÍšºØşÿÿÿÿ
-j
-java:S1104?"TMake NOT_COST a static final constant or non-public and provide accessors if needed.(­‚ÅØ
-s
-java:S1104H"]Make TERMINAL_ALPHANUM a static final constant or non-public and provide accessors if needed.(ê²Ò
-N
-java:S1444"3Make this "public static REPEAT_OPTION" field final(ùıˆ ıÿÿÿÿ
-i
-java:S3008!"SRename this field "INTERACT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìßêò
-n
-java:S3008#"XRename this field "OUTPUT_5_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Îá”
-v
-java:S1104)"[Make USE_PATTERN_LIB a static final constant or non-public and provide accessors if needed.(ÈŠ´òüÿÿÿÿ
-C
-java:S1444{"-Make this "public static matchGT" field final(Ë«÷é
-x
-java:S1104j"]Make solverLinearCount a static final constant or non-public and provide accessors if needed.(åã‰”şÿÿÿÿ
-~
-java:S1104n"cMake solverLinearRunningTime a static final constant or non-public and provide accessors if needed.(äš¡¤úÿÿÿÿ
-T
-java:S1444J">Make this "public static TERMINAL_NUM19_DOT_COMMA" field final(÷ò ş
+y
+java:S3008J"cRename this field "TERMINAL_NUM19_DOT_COMMA" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(÷ò ş
+M
+java:S1444V"7Make this "public static REPEAT_WITHIN_NOT" field final(‰°ªë
 H
 java:S1135O"2Complete the task associated to this TODO comment.(°•ÆÍ
-w
-java:S1104_"\Make skipPruningCount a static final constant or non-public and provide accessors if needed.(´É¥…øÿÿÿÿ
-~
-java:S1104o"cMake pruningConstructionTime a static final constant or non-public and provide accessors if needed.(ˆÈ™×ıÿÿÿÿ
-i
-java:S3008?"SRename this field "NOT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‚ÅØ
-A
-java:S14440"+Make this "public static K_MAX" field final(ŒĞğª
-O
-java:S1444l"4Make this "public static synthesizeTime" field final(ºÍÓ˜øÿÿÿÿ
-m
-java:S1104B"XMake CONTAIN_COST a static final constant or non-public and provide accessors if needed.(Ù¦Î
-L
-java:S1444"1Make this "public static DEPTH_LIMIT" field final(Ü üªıÿÿÿÿ
-O
-java:S1444~"9Make this "public static subsumeNotPrunedHit" field final(³¹ßî
-S
-java:S1444*"8Make this "public static AUTOMATON_MINIMIZE" field final(Ğ¸äÚøÿÿÿÿ
-n
-java:S1104G"XMake TERMINAL_ANY a static final constant or non-public and provide accessors if needed.(ìŒ½§
-z
-java:S3008,"dRename this field "REPEATATLEAST_1_CONSTRAIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘¸Ë
-U
-java:S1444,"?Make this "public static REPEATATLEAST_1_CONSTRAIN" field final(ô‘¸Ë
-{
-java:S3008S"`Rename this field "APPLIED_TERMINAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äæ›˜ıÿÿÿÿ
-w
-java:S3008P"\Rename this field "EXTRA_REPEAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(îÖ£°ıÿÿÿÿ
-j
-java:S1104!"TMake INTERACT a static final constant or non-public and provide accessors if needed.(ìßêò
-l
-java:S1104/"QMake K_MIN a static final constant or non-public and provide accessors if needed.(Õµë„ÿÿÿÿÿ
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©÷½áÿÿÿÿÿ
-x
-java:S3008X"bRename this field "SW_EW_CONTAIN_IN_REPEAT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óë¬ı
-q
-java:S3008"VRename this field "DEPTH_LIMIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü üªıÿÿÿÿ
-n
-java:S3008>"SRename this field "AND_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®·è¿øÿÿÿÿ
-u
-java:S1104$"_Make syntaticErrorSketch a static final constant or non-public and provide accessors if needed.(Ú‡şõ
-m
-java:S3008="RRename this field "OR_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¶ÊÍùÿÿÿÿ
-R
-java:S1444Q"<Make this "public static EXTRA_REPEAT_THRESHOLD" field final(’ßíî
-F
-java:S1128"+Remove this unused import 'resnax.so.Test'.(´ÀÜñşÿÿÿÿ
-X
-java:S1444n"=Make this "public static solverLinearRunningTime" field final(äš¡¤úÿÿÿÿ
-z
-java:S1104p"_Make pruningEvaluateTime a static final constant or non-public and provide accessors if needed.(Ÿö¹æıÿÿÿÿ
-m
-java:S11047"WMake CONCAT_COST a static final constant or non-public and provide accessors if needed.(‚˜Ä£
-O
-java:S1444r"9Make this "public static subsumeCheckingTime" field final(ºÜÔì
-x
-java:S11042"bMake STRINGBUILDER_CAPACITY a static final constant or non-public and provide accessors if needed.(ÜÃòÔ
-t
-java:S1104F"YMake TERMINAL_COST a static final constant or non-public and provide accessors if needed.(¨˜º¥øÿÿÿÿ
-f
-java:S30080"PRename this field "K_MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŒĞğª
-t
-java:S1104u"YMake enumerateTime a static final constant or non-public and provide accessors if needed.(ğÑõ­ùÿÿÿÿ
-Q
-java:S1444a"6Make this "public static totalStatesCount" field final(Î¬Ñ ùÿÿÿÿ
-v
-java:S1104L"[Make TERMINAL_OTHERS a static final constant or non-public and provide accessors if needed.(‹‹®ùÿÿÿÿ
-H
-java:S1444;"2Make this "public static REPEATR_COST" field final(ö’®ç
-L
-java:S1444"6Make this "public static SYMBOLOC_ENABLED" field final(Åï–ñ
-s
-java:S3008:"XRename this field "REPEATAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(»¸¡×üÿÿÿÿ
-K
-java:S1444C"0Make this "public static OTHER_COST" field final(áÉ£Äùÿÿÿÿ
-O
-java:S1444f"4Make this "public static evaluatedCount" field final(—ŠÏ¶ÿÿÿÿÿ
-w
-java:S30082"aRename this field "STRINGBUILDER_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÃòÔ
-w
-java:S3008Q"aRename this field "EXTRA_REPEAT_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ßíî
-i
-java:S1104@"SMake SW_COST a static final constant or non-public and provide accessors if needed.(Å¸¨Ÿ
 j
 java:S1104""TMake OUTPUT_5 a static final constant or non-public and provide accessors if needed.(áÇŸ¶
-r
-java:S11049"WMake REPEAT_COST a static final constant or non-public and provide accessors if needed.(à´É†ûÿÿÿÿ
-s
-java:S1104V"]Make REPEAT_WITHIN_NOT a static final constant or non-public and provide accessors if needed.(‰°ªë
-r
-java:S1104"WMake DEPTH_LIMIT a static final constant or non-public and provide accessors if needed.(Ü üªıÿÿÿÿ
+v
+java:S1104i"`Make solverNonLinearCount a static final constant or non-public and provide accessors if needed.(’àæ‘
 €
 java:S1104"jMake NOT_PRUNED_SUBSUMPTION_ENABLED a static final constant or non-public and provide accessors if needed.(‰½É
+O
+java:S1444~"9Make this "public static subsumeNotPrunedHit" field final(³¹ßî
+w
+java:S1104_"\Make skipPruningCount a static final constant or non-public and provide accessors if needed.(´É¥…øÿÿÿÿ
+K
+java:S1444C"0Make this "public static OTHER_COST" field final(áÉ£Äùÿÿÿÿ
+x
+java:S3008*"]Rename this field "AUTOMATON_MINIMIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ğ¸äÚøÿÿÿÿ
+C
+java:S1444@"-Make this "public static SW_COST" field final(Å¸¨Ÿ
+{
+java:S3008S"`Rename this field "APPLIED_TERMINAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Äæ›˜ıÿÿÿÿ
+L
+java:S1444}"6Make this "public static subsumePrunedHit" field final(¤ğ˜â
+i
+java:S1104@"SMake SW_COST a static final constant or non-public and provide accessors if needed.(Å¸¨Ÿ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¼®¯—
+Y
+java:S1444Y"CMake this "public static NOT_NOT_CONTAIN_SW_EW_PATTERN" field final(œÊ¾ø
+r
+java:S1104}"\Make subsumePrunedHit a static final constant or non-public and provide accessors if needed.(¤ğ˜â
+W
+java:S1118":Add a private constructor to hide the implicit public one.(àªÅö8´ó–Ô/
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(©÷½áÿÿÿÿÿ
+P
+java:S1444L"5Make this "public static TERMINAL_OTHERS" field final(‹‹®ùÿÿÿÿ
+r
+java:S11049"WMake REPEAT_COST a static final constant or non-public and provide accessors if needed.(à´É†ûÿÿÿÿ
+H
+java:S1135Q"2Complete the task associated to this TODO comment.(’ßíî
+s
+java:S1104H"]Make TERMINAL_ALPHANUM a static final constant or non-public and provide accessors if needed.(ê²Ò
+u
+java:S1104l"ZMake synthesizeTime a static final constant or non-public and provide accessors if needed.(ºÍÓ˜øÿÿÿÿ
+[
+java:S1444"@Make this "public static PRUNED_SUBSUMPTION_ENABLED" field final(†¶ñ›şÿÿÿÿ
 u
 java:S1104g"_Make subsumeAvoidPruning a static final constant or non-public and provide accessors if needed.(¨ÚÕ¾
+l
+java:S3008B"WRename this field "CONTAIN_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ù¦Î
+u
+java:S1104~"_Make subsumeNotPrunedHit a static final constant or non-public and provide accessors if needed.(³¹ßî
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(Ÿ³á‰
+V
+java:S1444m"@Make this "public static solverNonLinearRunningTime" field final(¬ô£È
+m
+java:S3008G"WRename this field "TERMINAL_ANY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ìŒ½§
+|
+java:S1104c"aMake approximatedEvalCount a static final constant or non-public and provide accessors if needed.(õ¼Ğáÿÿÿÿÿ
+~
+java:S30083"cRename this field "MIN_NUM_TERMINAL_PRUNING" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ĞÜÍÕùÿÿÿÿ
+j
+java:S3008<"TRename this field "STAR_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö®ŠÒ
+€
+java:S3008"eRename this field "PRUNED_SUBSUMPTION_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†¶ñ›şÿÿÿÿ
+j
+java:S1104?"TMake NOT_COST a static final constant or non-public and provide accessors if needed.(­‚ÅØ
+H
+java:S1444G"2Make this "public static TERMINAL_ANY" field final(ìŒ½§
+m
+java:S3008="RRename this field "OR_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ê¶ÊÍùÿÿÿÿ
+V
+java:S1444S";Make this "public static APPLIED_TERMINAL_COST" field final(Äæ›˜ıÿÿÿÿ
+Q
+java:S1444_"6Make this "public static skipPruningCount" field final(´É¥…øÿÿÿÿ
+w
+java:S30082"aRename this field "STRINGBUILDER_CAPACITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÃòÔ
+M
+java:S1444U"7Make this "public static MORE_THAN_ONE_NOT" field final(ÿ¯ó
+j
+java:S1104!"TMake INTERACT a static final constant or non-public and provide accessors if needed.(ìßêò
+N
+java:S1444F"3Make this "public static TERMINAL_COST" field final(¨˜º¥øÿÿÿÿ
+x
+java:S1104d"]Make prunedStatesCount a static final constant or non-public and provide accessors if needed.(üªÁãúÿÿÿÿ
+A
+java:S14440"+Make this "public static K_MAX" field final(ŒĞğª
 r
-java:S30081"\Rename this field "SUBSUMPTION_DEPTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Úâíì
+java:S1104"\Make SYMBOLOC_ENABLED a static final constant or non-public and provide accessors if needed.(Åï–ñ
+i
+java:S3008?"SRename this field "NOT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­‚ÅØ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ñö×¸üÿÿÿÿ
+D
+java:S1444?".Make this "public static NOT_COST" field final(­‚ÅØ
 t
-java:S1104"YMake REPEAT_OPTION a static final constant or non-public and provide accessors if needed.(ùıˆ ıÿÿÿÿ
+java:S1104:"YMake REPEATAL_COST a static final constant or non-public and provide accessors if needed.(»¸¡×üÿÿÿÿ
+u
+java:S3008"ZRename this field "PRUNING_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡’ÛÉúÿÿÿÿ
+R
+java:S1444d"7Make this "public static prunedStatesCount" field final(üªÁãúÿÿÿÿ
+P
+java:S1444i":Make this "public static solverNonLinearCount" field final(’àæ‘
+w
+java:S1104a"\Make totalStatesCount a static final constant or non-public and provide accessors if needed.(Î¬Ñ ùÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(½ùÅ»ÿÿÿÿÿ
+O
+java:S1444f"4Make this "public static evaluatedCount" field final(—ŠÏ¶ÿÿÿÿÿ
+q
+java:S1104C"VMake OTHER_COST a static final constant or non-public and provide accessors if needed.(áÉ£Äùÿÿÿÿ
+
+java:S1104Y"iMake NOT_NOT_CONTAIN_SW_EW_PATTERN a static final constant or non-public and provide accessors if needed.(œÊ¾ø
+v
+java:S1104)"[Make USE_PATTERN_LIB a static final constant or non-public and provide accessors if needed.(ÈŠ´òüÿÿÿÿ
+X
+java:S1444n"=Make this "public static solverLinearRunningTime" field final(äš¡¤úÿÿÿÿ
+i
+java:S1104{"SMake matchGT a static final constant or non-public and provide accessors if needed.(Ë«÷é
+k
+java:S3008/"PRename this field "K_MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õµë„ÿÿÿÿÿ
+h
+java:S3008A"RRename this field "EW_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¾¦ñÆ
+s
+java:S30088"XRename this field "OPTIONAL_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿¤øÙúÿÿÿÿ
+M
+java:S1444H"7Make this "public static TERMINAL_ALPHANUM" field final(ê²Ò
+r
+java:S1104"WMake DEPTH_LIMIT a static final constant or non-public and provide accessors if needed.(Ü üªıÿÿÿÿ
+|
+java:S1104S"aMake APPLIED_TERMINAL_COST a static final constant or non-public and provide accessors if needed.(Äæ›˜ıÿÿÿÿ
+k
+java:S1104t"UMake solveTime a static final constant or non-public and provide accessors if needed.(øéÚ
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(«˜‚÷
+p
+java:S3008C"URename this field "OTHER_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áÉ£Äùÿÿÿÿ
+G
+java:S14447"1Make this "public static CONCAT_COST" field final(‚˜Ä£
+O
+java:S1444$"9Make this "public static syntaticErrorSketch" field final(Ú‡şõ
+R
+java:S1444P"7Make this "public static EXTRA_REPEAT_COST" field final(îÖ£°ıÿÿÿÿ
+g
+java:S11040"QMake K_MAX a static final constant or non-public and provide accessors if needed.(ŒĞğª
 I
 java:S1444>".Make this "public static AND_COST" field final(®·è¿øÿÿÿÿ
 n
-java:S1104;"XMake REPEATR_COST a static final constant or non-public and provide accessors if needed.(ö’®ç
+java:S3008#"XRename this field "OUTPUT_5_SIZE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“Îá”
+r
+java:S3008H"\Rename this field "TERMINAL_ALPHANUM" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ê²Ò
+o
+java:S1104>"TMake AND_COST a static final constant or non-public and provide accessors if needed.(®·è¿øÿÿÿÿ
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(ı®û†üÿÿÿÿ
+y
+java:S1104*"^Make AUTOMATON_MINIMIZE a static final constant or non-public and provide accessors if needed.(Ğ¸äÚøÿÿÿÿ
+x
+java:S1104j"]Make solverLinearCount a static final constant or non-public and provide accessors if needed.(åã‰”şÿÿÿÿ
+q
+java:S30089"VRename this field "REPEAT_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(à´É†ûÿÿÿÿ
+n
+java:S1104G"XMake TERMINAL_ANY a static final constant or non-public and provide accessors if needed.(ìŒ½§
+P
+java:S1444)"5Make this "public static USE_PATTERN_LIB" field final(ÈŠ´òüÿÿÿÿ
+n
+java:S1104="SMake OR_COST a static final constant or non-public and provide accessors if needed.(Ê¶ÊÍùÿÿÿÿ
 G
 java:S1444B"2Make this "public static CONTAIN_COST" field final(Ù¦Î
-u
-java:S3008+"ZRename this field "PRUNE_ONLY_LEAF" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û¬Ú×ûÿÿÿÿ
-M
-java:S14441"7Make this "public static SUBSUMPTION_DEPTH" field final(Úâíì
-`
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(½ùÅ»ÿÿÿÿÿ
-I
-java:S1444#"3Make this "public static OUTPUT_5_SIZE" field final(“Îá”
-w
-java:S1104a"\Make totalStatesCount a static final constant or non-public and provide accessors if needed.(Î¬Ñ ùÿÿÿÿ
-x
-java:S3008O"bRename this field "SPECIAL_REPEATATLEAST_1" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°•ÆÍ
-O
-java:S1444g"9Make this "public static subsumeAvoidPruning" field final(¨ÚÕ¾
-M
-java:S1444V"7Make this "public static REPEAT_WITHIN_NOT" field final(‰°ªë
-P
-java:S1444+"5Make this "public static PRUNE_ONLY_LEAF" field final(û¬Ú×ûÿÿÿÿ
-E
-java:S1444&"*Make this "public static MODE" field final(ƒ’—ÿÿÿÿÿ
-
-java:S11043"dMake MIN_NUM_TERMINAL_PRUNING a static final constant or non-public and provide accessors if needed.(ĞÜÍÕùÿÿÿÿ
+Q
+java:S1444a"6Make this "public static totalStatesCount" field final(Î¬Ñ ùÿÿÿÿ
 V
 java:S1444c";Make this "public static approximatedEvalCount" field final(õ¼Ğáÿÿÿÿÿ
-i
-java:S1104A"SMake EW_COST a static final constant or non-public and provide accessors if needed.(¾¦ñÆ
-x
-java:S1104d"]Make prunedStatesCount a static final constant or non-public and provide accessors if needed.(üªÁãúÿÿÿÿ
+{
+java:S1104,"eMake REPEATATLEAST_1_CONSTRAIN a static final constant or non-public and provide accessors if needed.(ô‘¸Ë
+n
+java:S3008>"SRename this field "AND_COST" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®·è¿øÿÿÿÿ
+v
+java:S1104["`Make NOT_TERMINAL_PATTERN a static final constant or non-public and provide accessors if needed.(†õ
+s
+java:S3008"XRename this field "REPEAT_OPTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ùıˆ ıÿÿÿÿ
+w
+java:S3008Q"aRename this field "EXTRA_REPEAT_THRESHOLD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ßíî
+O
+java:S1444g"9Make this "public static subsumeAvoidPruning" field final(¨ÚÕ¾
+v
+java:S1104+"[Make PRUNE_ONLY_LEAF a static final constant or non-public and provide accessors if needed.(û¬Ú×ûÿÿÿÿ
+y
+java:S1104X"cMake SW_EW_CONTAIN_IN_REPEAT a static final constant or non-public and provide accessors if needed.(óë¬ı
+`
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¦î‡Ãøÿÿÿÿ
+P
+java:S1444[":Make this "public static NOT_TERMINAL_PATTERN" field final(†õ
+T
+java:S1444p"9Make this "public static pruningEvaluateTime" field final(Ÿö¹æıÿÿÿÿ
+w
+java:S1104b"\Make addedStatesCount a static final constant or non-public and provide accessors if needed.(è–ÆĞşÿÿÿÿ
+C
+java:S1444{"-Make this "public static matchGT" field final(Ë«÷é
+D
+java:S1444"".Make this "public static OUTPUT_5" field final(áÇŸ¶
 u
-java:S3008"ZRename this field "PRUNING_ENABLED" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‡’ÛÉúÿÿÿÿ
-[
-java:S1124"EReorder the modifiers to comply with the Java Language Specification.(«˜‚÷
+java:S1104$"_Make syntaticErrorSketch a static final constant or non-public and provide accessors if needed.(Ú‡şõ
+s
+java:S1104V"]Make REPEAT_WITHIN_NOT a static final constant or non-public and provide accessors if needed.(‰°ªë
+Q
+java:S1444I"6Make this "public static TERMINAL_LET_NUM" field final(¸¦ü”úÿÿÿÿ
+O
+java:S1444z"4Make this "public static leanredProgram" field final(à„úáşÿÿÿÿ
+j
+java:S3008&"ORename this field "MODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒ’—ÿÿÿÿÿ
+~
+java:S1104R"cMake CONSECUTIVE_REPEAT_COST a static final constant or non-public and provide accessors if needed.(¸ê´åüÿÿÿÿ
+~
+java:S1104o"cMake pruningConstructionTime a static final constant or non-public and provide accessors if needed.(ˆÈ™×ıÿÿÿÿ
+m
+java:S11047"WMake CONCAT_COST a static final constant or non-public and provide accessors if needed.(‚˜Ä£
+Y
+java:S14443">Make this "public static MIN_NUM_TERMINAL_PRUNING" field final(ĞÜÍÕùÿÿÿÿ
+T
+java:S1444J">Make this "public static TERMINAL_NUM19_DOT_COMMA" field final(÷ò ş
+S
+java:S1444*"8Make this "public static AUTOMATON_MINIMIZE" field final(Ğ¸äÚøÿÿÿÿ
 |
-java:S1104c"aMake approximatedEvalCount a static final constant or non-public and provide accessors if needed.(õ¼Ğáÿÿÿÿÿ
+java:S1104m"fMake solverNonLinearRunningTime a static final constant or non-public and provide accessors if needed.(¬ô£È
+p
+java:S3008K"[Rename this field "TERMINAL_CAP_LOW" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áØÇ
+Z
+java:S1444"DMake this "public static NOT_PRUNED_SUBSUMPTION_ENABLED" field final(‰½É
+~
+java:S1104n"cMake solverLinearRunningTime a static final constant or non-public and provide accessors if needed.(äš¡¤úÿÿÿÿ
+k
+java:S1104<"UMake STAR_COST a static final constant or non-public and provide accessors if needed.(Ö®ŠÒ
+u
+java:S3008["_Rename this field "NOT_TERMINAL_PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(†õ
 D
 java:S1444!".Make this "public static INTERACT" field final(ìßêò
-u
-java:S1104r"_Make subsumeCheckingTime a static final constant or non-public and provide accessors if needed.(ºÜÔì
-P
-java:S1444i":Make this "public static solverNonLinearCount" field final(’àæ‘

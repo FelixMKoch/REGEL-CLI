@@ -240,6 +240,17 @@ import java.util.*;
     }
   }
 
+
+  public String runCustom() {
+    learner = new Learner(new DSL.CFG("", appliedTerminalsNoCost, appliedTerminalsCost));
+
+    if (Main.succ) {
+      return learner.learn(sketch, examples, gt).program.pp.toString();
+    }
+    return "NULL";
+
+  }
+
   public void run_interactive() {
     learner = new Learner(new DSL.CFG("", appliedTerminalsNoCost, appliedTerminalsCost));
 
