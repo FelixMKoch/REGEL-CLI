@@ -10,7 +10,7 @@ public class Run {
 
     public String[] args;
 
-    private String model = "so";        // Changes currently made onyl to the Run classes of the so model. Only this one works.
+    private String model = "so";        // Changes currently made only to the Run classes of the so model. Only this one works.
 
     private Integer topRes = 10;
 
@@ -84,8 +84,6 @@ public class Run {
 
 
     private void runExec(String command) {
-
-        System.out.println("Command: " + command);
 
         ProcessBuilder builder = new ProcessBuilder(command.split(" "));
 
@@ -169,7 +167,6 @@ public class Run {
 
 
         } catch(IOException e){
-            System.out.println("FEILED HERE");
         }
 
         return sketches;
@@ -182,7 +179,7 @@ public class Run {
 
         System.out.println("Natural language is: " + naturalLanguage);
 
-        System.out.println("Your Examples: \n");
+        System.out.println("Your Examples: ");
 
         examples.forEach(System.out::println);
 
@@ -203,6 +200,7 @@ public class Run {
             };
 
             String res = Main.runCustom(args);  // Important: This is the Main class of 'resnax' with custom function for this case
+
 
             ret.add(res);
 

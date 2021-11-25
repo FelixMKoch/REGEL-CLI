@@ -1,6 +1,8 @@
-rootProject.name = 'jetbrains_test_problem'
+rootProject.name = 'REGEL-CLI'
 
 include(
-        "resnax"
+        ":resnax"
 )
+
+project(":resnax").projectDir = new File("/resnax")
 
