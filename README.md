@@ -14,6 +14,11 @@ cd sempre
 ./pull-dependencies tables
 
 ```
+- Sempre tool setup can also be executed over a Bash-Script for Linux users:  
+```bash
+chmod +x dependencies.sh 
+./startup.sh
+```
 
 - Other dependencies:
 	- [Z3](https://github.com/Z3Prover/z3) with Java binding
