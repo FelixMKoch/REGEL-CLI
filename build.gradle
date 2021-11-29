@@ -1,5 +1,6 @@
 plugins {
     id 'java'
+    id 'application'
 }
 
 group 'org.example'
@@ -14,3 +15,9 @@ dependencies {
 
     implementation(fileTree("resnax"))
 }
+
+run {
+    standardInput = System.in
+}
+
+mainClassName = 'Main'
